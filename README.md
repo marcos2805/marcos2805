@@ -7,9 +7,9 @@
 </div>
 </div>
 
-
-### Tecnologias que utilizo no meu dia:
-
+<div align="center">
+  <h1>Tecnologias que utilizo no meu dia-a-dia</h1>
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Eduardo-mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
